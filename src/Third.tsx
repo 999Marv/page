@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import dashund from "src/public/7384ad04-3c79-4896-b79c-b3fd33b454d3.webp";
 
 const Third = () => {
   const navigate = useNavigate();
@@ -13,7 +14,7 @@ const Third = () => {
 
   const images = [
     {
-      url: "src/public/7384ad04-3c79-4896-b79c-b3fd33b454d3.webp",
+      url: dashund,
       place: "Dashund",
       send: handleWin,
     },
