@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import dashund from "src/public/7384ad04-3c79-4896-b79c-b3fd33b454d3.webp";
+import dashund from "./public/7384ad04-3c79-4896-b79c-b3fd33b454d3.webp";
 
 const Third = () => {
   const navigate = useNavigate();
